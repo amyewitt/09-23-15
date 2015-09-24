@@ -2,4 +2,4 @@
 
 First REpository
 
-I am a college counselor at LPS Richmond.
+I am a college counselor at LPS Richmond
